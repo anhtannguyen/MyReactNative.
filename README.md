@@ -1,4 +1,5 @@
 #Bài tập môn React
+
 ##Lý thuyết
 1.	[Câu 1] (https://codepen.io/anhtannguyen/pen/RwJeQEw)
 2.	[Câu 3] (https://codepen.io/anhtannguyen/pen/rNKRGVX)
@@ -19,6 +20,7 @@
 17.	[Câu 19] (https://codesandbox.io/s/bai19-k2s29b?file=/src/index.js)
 18.	[Câu 20] (https://codesandbox.io/s/bai20-j24l50?file=/src/styles.css)
 19.	[Câu 21] (https://codesandbox.io/s/bai21-brm6p8?file=/src/styles.css)
+
 ##Thực hành
 1.  [Bài thực hành số 1] (https://codesandbox.io/s/baithuchanh1-zsbn21?file=/src/Components/Footer.js)
 2.  [Bài thực hành số 2] (https://codesandbox.io/s/baithuchanh2-inwxme?file=/src/NewComp.js)

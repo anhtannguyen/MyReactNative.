@@ -23,3 +23,4 @@ Bài tập môn React
 ##Thực hành
 1.  [Bài thực hành số 1] (https://codesandbox.io/s/baithuchanh1-zsbn21?file=/src/Components/Footer.js)
 2.  [Bài thực hành số 2] (https://codesandbox.io/s/baithuchanh2-inwxme?file=/src/NewComp.js)
+3.  [Bài thực hành số 3] 

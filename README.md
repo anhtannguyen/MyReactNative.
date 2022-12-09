@@ -22,7 +22,7 @@
 19.	[Câu 21] (https://codesandbox.io/s/bai21-brm6p8?file=/src/styles.css)
 
 ##Thực hành
-1.  [Bài thực hành số 1] (https://codesandbox.io/s/baithuchanh1-zsbn21?file=/src/Components/Footer.js)
+1.  [Bài thực hành pros và state] (https://codesandbox.io/s/prop-state-o3ihif?file=/src/index.js)
 2.  [Bài thực hành số 2] (https://codesandbox.io/s/baithuchanh2-inwxme?file=/src/NewComp.js)
 3.  [Bài thực hành số 3] (https://codesandbox.io/s/baithuchanh3-itt712?file=/src/components/Counters.jsx)
-4.  [Bài thực hành pros và state] (https://codesandbox.io/s/prop-state-o3ihif?file=/src/index.js)
+4.  [Bài thực hành số 1] (https://codesandbox.io/s/baithuchanh1-zsbn21?file=/src/Components/Footer.js)

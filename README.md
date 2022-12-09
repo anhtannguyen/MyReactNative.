@@ -1,7 +1,7 @@
 #Bài tập môn React
 
 ##Lý thuyết
-1.	[Câu 1] (https://codepen.io/anhtannguyen/pen/RwJeQEw)
+1.	[Câu 1] <a href="https://codepen.io/anhtannguyen/pen/RwJeQEw">(https://codepen.io/anhtannguyen/pen/RwJeQEw)</a>
 2.	[Câu 3] (https://codepen.io/anhtannguyen/pen/rNKRGVX)
 3.	[Câu 5] (https://codepen.io/anhtannguyen/pen/rNKqdwP)
 4.	[Câu 6] (https://codepen.io/anhtannguyen/pen/OJEqxXv)
